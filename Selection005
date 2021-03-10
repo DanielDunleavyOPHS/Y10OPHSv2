@@ -1,0 +1,4 @@
+rain = input("Is it raining outside? Yes or No").lower()
+
+if rain =="yes":
+print("")
