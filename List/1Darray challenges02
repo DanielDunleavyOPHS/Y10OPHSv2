@@ -1,0 +1,12 @@
+cars = []
+
+Loop = True
+while Loop == True:
+  gar = input("Enter a car brand or press x to exit")
+  if gar == "x":
+   print("Exiting")
+   Loop = False
+  else:
+   cars.append(gar)
+
+print("The list is", cars)  
