@@ -1,0 +1,13 @@
+tvShows = ["Great Drivers of London","Donald Duck","mincraft","Fortnite"]
+
+print(tvShows[0])
+print(tvShows[1])
+print(tvShows[2])
+print(tvShows[3])
+
+Newshow = input("enter another show>>")
+location = int(input("Enter the location between 0 and 4>>>"))
+
+tvShows.insert(location, Newshow)
+print(tvShows)
+                
