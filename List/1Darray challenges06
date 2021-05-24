@@ -9,7 +9,7 @@ while True:
     if count == 3:
         delete = input("Keep last num? yes or no ").lower()
 
-        if delete == "n":
+        if delete == "no":
             nums.remove(nums[-1])
             break
         
