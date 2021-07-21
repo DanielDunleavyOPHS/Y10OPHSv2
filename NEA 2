@@ -2,4 +2,16 @@ print("Welcome!!!")
 loop = "Y"
 
 while lopp = "Y":
-  email = ("Enter an email: >>>")
+  email = input("Enter an email: >>>")
+  skill = input("Enter a skill level - E for expert or C for casual : >>>")
+  Country = input("Enter country UK/US/AU : >>>")
+  
+        
+  
+  
+  
+  
+  if Country = "UK":
+    print("The UK fee is: 45 GBP")
+    if Country = "US":
+      print("The US fee is: ")
