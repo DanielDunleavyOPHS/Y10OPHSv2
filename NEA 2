@@ -1,0 +1,5 @@
+print("Welcome!!!")
+loop = "Y"
+
+while lopp = "Y":
+  email = ("Enter an email: >>>")
